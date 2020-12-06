@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\TestWorkWithGithub\TestWorkWithGithub\bin\Debug\TestWorkWithGithub.exe.config
+C:\Users\admin\source\repos\TestWorkWithGithub\TestWorkWithGithub\bin\Debug\TestWorkWithGithub.exe
+C:\Users\admin\source\repos\TestWorkWithGithub\TestWorkWithGithub\bin\Debug\TestWorkWithGithub.pdb
+C:\Users\admin\source\repos\TestWorkWithGithub\TestWorkWithGithub\obj\Debug\TestWorkWithGithub.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\TestWorkWithGithub\TestWorkWithGithub\obj\Debug\TestWorkWithGithub.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TestWorkWithGithub\TestWorkWithGithub\obj\Debug\TestWorkWithGithub.exe
+C:\Users\admin\source\repos\TestWorkWithGithub\TestWorkWithGithub\obj\Debug\TestWorkWithGithub.pdb
